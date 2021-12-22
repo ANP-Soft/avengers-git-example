@@ -4,3 +4,4 @@
 * Thanos
 * Ultron
 * Loki
+* Magneto
